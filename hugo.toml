@@ -1,0 +1,12 @@
+baseURL = 'https://SupMage.github.io/'
+languageCode = 'en-us'
+title = 'Mage's Guild Studio Archive'
+theme = 'mana'
+
+[params]
+description = "My personal blog with electronics,magic,tech, and projects in the studio"
+footerText = "Spellcasted  with Hugo, Mana, and Artificial Spirits"
+heroTitleLine1 = "Welcome to The Arcane Library"
+heroTitleLine2 = "Tech, Thomes, and Experiments"
+heroImage ="/my-website/blog/hugologo.png"
+github = "https://github.com/SupMage"

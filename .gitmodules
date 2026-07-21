@@ -1,0 +1,7 @@
+[submodule "themes/mana"]
+	path = themes/mana
+	url = https://github.com/Livour/hugo-mana-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/SupMage/SupMage.github.io.git
+	branch = main
