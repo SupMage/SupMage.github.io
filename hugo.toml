@@ -1,6 +1,6 @@
 baseURL = 'https://SupMage.github.io/'
 languageCode = 'en-us'
-title = 'Mage's Guild Studio Archive'
+title = "Mage's Guild Studio Archive"
 theme = 'mana'
 
 [params]
