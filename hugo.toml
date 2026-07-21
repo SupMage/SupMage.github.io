@@ -12,4 +12,4 @@ github = "https://github.com/SupMage"
 
 [params.avatar]
 [params.avatar.home]
-assetPath = "/hugologo.png" 
+assetPath = "hugologo.png" 
