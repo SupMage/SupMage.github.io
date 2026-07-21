@@ -7,7 +7,7 @@ theme = 'mana'
 description = "My personal blog with electronics,magic,tech, and projects in the studio"
 footerText = "Spellcasted  with Hugo, Mana, and Artificial Spirits"
 heroTitleLine1 = "Welcome to The Arcane Library"
-heroTitleLine2 = "Tech, Thomes, and Experiments"
+heroTitleLine2 = "Tech, Grimoires, and Experiments"
 github = "https://github.com/SupMage"
 
 [params.avatar]
