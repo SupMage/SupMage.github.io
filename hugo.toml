@@ -8,5 +8,8 @@ description = "My personal blog with electronics,magic,tech, and projects in the
 footerText = "Spellcasted  with Hugo, Mana, and Artificial Spirits"
 heroTitleLine1 = "Welcome to The Arcane Library"
 heroTitleLine2 = "Tech, Thomes, and Experiments"
-heroImage ="/hugologo.png"
 github = "https://github.com/SupMage"
+
+[params.avatar]
+[params.avatar.home]
+assetPath = "hugologo.png" 
