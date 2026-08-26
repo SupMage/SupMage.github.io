@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog on Mage&#39;s Guild Studio Archive</title>
+		<link>http://localhost:1313/tags/blog/</link>
+		<description>Recent content in Blog on Mage&#39;s Guild Studio Archive</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/posts/summoning-a-static-site-using-the-bones-of-hugo-and-the-blood-of-termux-android-inside-the-couldron-of-github/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/summoning-a-static-site-using-the-bones-of-hugo-and-the-blood-of-termux-android-inside-the-couldron-of-github/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Summoning a static site using the Bones of Hugo&amp;hellip;&amp;rdquo;&#xA;author: &amp;ldquo;Mage Valentine&amp;rdquo;&#xA;tags: [&amp;ldquo;Blog&amp;rdquo;, &amp;ldquo;Tech&amp;rdquo;, &amp;ldquo;Hugo&amp;rdquo;, &amp;ldquo;Termux&amp;rdquo;, &amp;ldquo;Github&amp;rdquo;]&#xA;date: 2026-07-01&#xA;draft: false&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;-information-resources&#34;&gt;🧠 Information Resources&lt;/h3&gt;&#xA;&lt;p&gt;Reading Hugo and Github forums gives alot of info on how to use the 2 together to design and display a static site perfect for a blog or guide on projects that your working/worked on for others to see. Youtubers that I&amp;rsquo;ve been inspired by or learned from to create projects and showcase them. &lt;a href=&#34;http://www.youtube.com/@NetworkChuck&#34;&gt;NetworkChuck&lt;/a&gt;&#xA;&lt;a href=&#34;http://www.youtube.com/@HardwareHaven&#34;&gt;Hardware Haven&lt;/a&gt;&#xA;&lt;a href=&#34;http://www.youtube.com/@RaidOwl&#34;&gt;Raid Owl&lt;/a&gt;&#xA;&lt;a href=&#34;http://www.youtube.com/@MikeSchmitz&#34;&gt;Mike Schmitz&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

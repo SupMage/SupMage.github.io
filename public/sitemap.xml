@@ -2,6 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/cd-ripping-guide/</loc>
+    <lastmod>2026-08-01T15:36:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/cd-ripping-guide/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/eac-setup/</loc>
+    <lastmod>2026-08-01T15:36:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/eac-setup/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-01T15:36:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/media-archrival/</loc>
+    <lastmod>2026-08-01T15:36:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/media-archrival/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-08-01T15:36:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/posts/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/ripping-cds-for-music-archive/</loc>
+    <lastmod>2026-08-01T15:36:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/posts/ripping-cds-for-music-archive/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-08-01T15:36:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/tech/</loc>
+    <lastmod>2026-08-01T15:36:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/tech/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/summoning-a-static-site-using-the-bones-of-hugo-and-the-blood-of-termux-android-inside-the-couldron-of-github/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/posts/summoning-a-static-site-using-the-bones-of-hugo-and-the-blood-of-termux-android-inside-the-couldron-of-github/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/blog/"/>
+  </url>
+  <url>
     <loc>http://localhost:1313/categories/</loc>
     
     <changefreq>monthly</changefreq>
@@ -12,24 +112,44 @@
                href="http://localhost:1313/categories/"/>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/github/</loc>
     
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
                hreflang="en"
-               href="http://localhost:1313/tags/"/>
+               href="http://localhost:1313/tags/github/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/hugo/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/project/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/project/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/termux/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/termux/"/>
   </url>
   
 </urlset>

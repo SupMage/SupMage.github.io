@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Mage&#39;s Guild Studio Archive</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content on Mage&#39;s Guild Studio Archive</description>
+		<title>Media Archrival on Mage&#39;s Guild Studio Archive</title>
+		<link>http://localhost:1313/tags/media-archrival/</link>
+		<description>Recent content in Media Archrival on Mage&#39;s Guild Studio Archive</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,20 +12,13 @@
 		
 			<lastBuildDate>Sat, 01 Aug 2026 15:36:00 -0400</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/media-archrival/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ripping CDs for Music and Music Videos in Home Servers</title>
 				<link>http://localhost:1313/posts/ripping-cds-for-music-archive/</link>
 				<pubDate>Sat, 01 Aug 2026 15:36:00 -0400</pubDate>
 				<guid>http://localhost:1313/posts/ripping-cds-for-music-archive/</guid>
 				<description>&lt;h2 id=&#34;ripping-cds-for-music-and-music-videos-in-home-servers&#34;&gt;Ripping CDs for Music and Music Videos in Home Servers&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/o4ooWzc.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;🔰 Whether you&amp;rsquo;re wanting digital copies of your music for self-hosted options like Jellyfin and Plex, or bringing nostalgia back with your MP3s and iPods, there are a few programs I use to rip my physical CDs into the digital age:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Exact Audio Copy (EAC)&lt;/strong&gt; for audio tracks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;HandBrake&lt;/strong&gt; and &lt;strong&gt;MakeMKV&lt;/strong&gt; for physical video media.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;qBittorrent&lt;/strong&gt; and &lt;strong&gt;Free Download Manager&lt;/strong&gt; for legal downloads from Archive.org.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-exact-audio-copy-initial-setup--settings&#34;&gt;1️⃣ Exact Audio Copy: Initial Setup &amp;amp; Settings&lt;/h2&gt;&#xA;&lt;p&gt;When you start up EAC for the first time, it will be on default settings. Inserting a CD right away will bring up untitled tracks saved as lower-quality audio files. For my setup, I want high-quality, lossless &lt;strong&gt;FLAC&lt;/strong&gt; files using a 3rd-party FLAC compressor converted from &lt;code&gt;.wav&lt;/code&gt;.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title></title>
-				<link>http://localhost:1313/posts/summoning-a-static-site-using-the-bones-of-hugo-and-the-blood-of-termux-android-inside-the-couldron-of-github/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/summoning-a-static-site-using-the-bones-of-hugo-and-the-blood-of-termux-android-inside-the-couldron-of-github/</guid>
-				<description>&lt;hr&gt;&#xA;&lt;p&gt;title: &amp;ldquo;Summoning a static site using the Bones of Hugo&amp;hellip;&amp;rdquo;&#xA;author: &amp;ldquo;Mage Valentine&amp;rdquo;&#xA;tags: [&amp;ldquo;Blog&amp;rdquo;, &amp;ldquo;Tech&amp;rdquo;, &amp;ldquo;Hugo&amp;rdquo;, &amp;ldquo;Termux&amp;rdquo;, &amp;ldquo;Github&amp;rdquo;]&#xA;date: 2026-07-01&#xA;draft: false&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;-information-resources&#34;&gt;🧠 Information Resources&lt;/h3&gt;&#xA;&lt;p&gt;Reading Hugo and Github forums gives alot of info on how to use the 2 together to design and display a static site perfect for a blog or guide on projects that your working/worked on for others to see. Youtubers that I&amp;rsquo;ve been inspired by or learned from to create projects and showcase them. &lt;a href=&#34;http://www.youtube.com/@NetworkChuck&#34;&gt;NetworkChuck&lt;/a&gt;&#xA;&lt;a href=&#34;http://www.youtube.com/@HardwareHaven&#34;&gt;Hardware Haven&lt;/a&gt;&#xA;&lt;a href=&#34;http://www.youtube.com/@RaidOwl&#34;&gt;Raid Owl&lt;/a&gt;&#xA;&lt;a href=&#34;http://www.youtube.com/@MikeSchmitz&#34;&gt;Mike Schmitz&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

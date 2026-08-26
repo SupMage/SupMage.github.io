@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Mage&#39;s Guild Studio Archive</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content on Mage&#39;s Guild Studio Archive</description>
+		<title>Posts on Mage&#39;s Guild Studio Archive</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Mage&#39;s Guild Studio Archive</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Sat, 01 Aug 2026 15:36:00 -0400</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ripping CDs for Music and Music Videos in Home Servers</title>
 				<link>http://localhost:1313/posts/ripping-cds-for-music-archive/</link>

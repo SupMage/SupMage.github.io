@@ -10,6 +10,71 @@
 		
 		
 		
+			<lastBuildDate>Sat, 01 Aug 2026 15:36:00 -0400</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CD Ripping Guide</title>
+				<link>http://localhost:1313/tags/cd-ripping-guide/</link>
+				<pubDate>Sat, 01 Aug 2026 15:36:00 -0400</pubDate>
+				<guid>http://localhost:1313/tags/cd-ripping-guide/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>EAC Setup</title>
+				<link>http://localhost:1313/tags/eac-setup/</link>
+				<pubDate>Sat, 01 Aug 2026 15:36:00 -0400</pubDate>
+				<guid>http://localhost:1313/tags/eac-setup/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Media Archrival</title>
+				<link>http://localhost:1313/tags/media-archrival/</link>
+				<pubDate>Sat, 01 Aug 2026 15:36:00 -0400</pubDate>
+				<guid>http://localhost:1313/tags/media-archrival/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tech</title>
+				<link>http://localhost:1313/tags/tech/</link>
+				<pubDate>Sat, 01 Aug 2026 15:36:00 -0400</pubDate>
+				<guid>http://localhost:1313/tags/tech/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Blog</title>
+				<link>http://localhost:1313/tags/blog/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/blog/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Github</title>
+				<link>http://localhost:1313/tags/github/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/github/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hugo</title>
+				<link>http://localhost:1313/tags/hugo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/hugo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Project</title>
+				<link>http://localhost:1313/tags/project/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/project/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Termux</title>
+				<link>http://localhost:1313/tags/termux/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/tags/termux/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>
