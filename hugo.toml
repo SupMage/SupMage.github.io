@@ -13,3 +13,8 @@ github = "https://github.com/SupMage"
 [params.avatar]
 [params.avatar.home]
 assetPath = "hugologo2.png" 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
