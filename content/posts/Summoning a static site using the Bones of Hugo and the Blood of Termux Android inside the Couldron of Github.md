@@ -1,25 +1,11 @@
 ---
-created:
-  - "{{date}} {{time}}"
-aliases:
-  - Blog
-tags:
-  - blog
-  - tech
-  - project
-  - termux
-  - Hugo
-  - Github
----
-
----
 title: "Summoning a static site using the Bones of Hugo..."
 author: "Mage Valentine"
 tags: ["Blog", "Tech", "Hugo", "Termux", "Github"]
 date: 2026-07-01
 draft: false
-
 ---
+
 <p align="center"> <img src="https://i.imgur.com/Bm3BBbY.jpeg" width="48%" style="max-width: 320px; display: inline-block;" alt="LG Stylo 2"> </p>
 # 💻 Project Beginnings 
 This all started from finding my old LG Stylo 2 siting in a drawer and wanted to find a way to still get use out of it. There is quite a few different projects for older phones but with the Stylo 2 final update being Android 7, cuts a few of the ideas out. I ultimately decided on an option that didn't require the phone to be on 24/7 risking spicy pillow battery and went with a static site generator.
